@@ -1,0 +1,19 @@
+.container-fluid .yes{
+   background-color: lightgray;
+   padding: 30px;
+}
+
+.container h2{
+   
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bolder;
+}
+.container-fluid .love{
+   font-size: 3rem;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.button .btn{
+margin-right: 100px;
+}
+
